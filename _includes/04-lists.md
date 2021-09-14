@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- main
+  - sub
+  - sub2
+
+1. first
+2. second
